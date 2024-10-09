@@ -1,64 +1,20 @@
 <!DOCTYPE html>
-<html lang="id">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CV Fajar Wisnu Pratama</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        .container {
-            max-width: 800px;
-            margin: 20px auto;
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        }
-        h1, h2 {
-            color: #333;
-        }
-        .section {
-            margin-bottom: 20px;
-        }
-        .section-title {
-            margin-bottom: 10px;
-            border-bottom: 2px solid #333;
-            display: inline-block;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        ul li {
-            margin-bottom: 5px;
-        }
-    </style>
-</head>
 <body>
-    <div class="container">
-        <h1>Fajar Wisnu Pratama</h1>
-        <p>Lahir dan besar di Karawang</p>
-
-        <div class="section">
-            <h2 class="section-title">Pendidikan</h2>
-            <p>Mahasiswa di Universitas Buana Perjuangan Karawang</p>
-            <p>Lulusan 2023 dari SMAN 1 Telukjambe Timur</p>
-        </div>
-
-        <div class="section">
-            <h2 class="section-title">Pengalaman</h2>
-            <ul>
-                <li>Pernah mengikuti perlombaan desain logo</li>
-                <li>Aktif dalam kegiatan mahasiswa seni budaya</li>
-                <li>Pernah menjadi panitia Musma Himatif</li>
-                <li>Panitia acara di kegiatan kampus lainnya</li>
-            </ul>
-        </div>
+    <div class="section">
+        <h1>Curriculum Vitae</h1>
+        <h2>Fajar Wisnu Pratama</h2>
+        <p><strong>HI, nama saya fajar wisnu pratama, saya lahir dan besar di kota karawang, saya merupakan mahasiswa di universitas buana perjuangan karawang. </p>
+        <h2>riwayat pendidikan</h2>
+        <li><strong>SD:</strong> SDN Sukaharja 2, Lulusan 2017</li>
+        <li><strong>SMP:</strong> MTSN 4 Karawang, Lulusan 2020</li>
+        <li><strong>SMA:</strong> SMAN 1 Telukjambe Timur, Lulusan 2023</li>
+        <h2>Pengalaman</h2>
+        <ul>
+            <li>mengikuti lomba Desain Logo</li>
+            <li>mengikuti Kegiatan Mahasiswa Seni Budaya</li>
+            <li>menjadi Panitia Musma Himatif</li>
+            <li>menjadi Panitia Acara DCDC Campus Night</li>
+        </ul>
     </div>
 </body>
 </html>
